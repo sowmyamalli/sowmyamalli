@@ -16,7 +16,7 @@ void getInput()
 }
 void displayReverse()
 {
-	//int i = 0;
+
 	for( int j=9;j>=0;j--)
 	{
 	    reverse[j]=number[j];
